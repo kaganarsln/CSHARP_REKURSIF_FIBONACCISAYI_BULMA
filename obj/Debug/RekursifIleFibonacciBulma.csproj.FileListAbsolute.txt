@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\gorselprogramlama1\RekursifIleFibonacciBulma\bin\Debug\RekursifIleFibonacciBulma.exe.config
+C:\Users\user\Desktop\gorselprogramlama1\RekursifIleFibonacciBulma\bin\Debug\RekursifIleFibonacciBulma.exe
+C:\Users\user\Desktop\gorselprogramlama1\RekursifIleFibonacciBulma\bin\Debug\RekursifIleFibonacciBulma.pdb
+C:\Users\user\Desktop\gorselprogramlama1\RekursifIleFibonacciBulma\obj\Debug\RekursifIleFibonacciBulma.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\gorselprogramlama1\RekursifIleFibonacciBulma\obj\Debug\RekursifIleFibonacciBulma.Form1.resources
+C:\Users\user\Desktop\gorselprogramlama1\RekursifIleFibonacciBulma\obj\Debug\RekursifIleFibonacciBulma.Properties.Resources.resources
+C:\Users\user\Desktop\gorselprogramlama1\RekursifIleFibonacciBulma\obj\Debug\RekursifIleFibonacciBulma.csproj.GenerateResource.cache
+C:\Users\user\Desktop\gorselprogramlama1\RekursifIleFibonacciBulma\obj\Debug\RekursifIleFibonacciBulma.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\gorselprogramlama1\RekursifIleFibonacciBulma\obj\Debug\RekursifIleFibonacciBulma.exe
+C:\Users\user\Desktop\gorselprogramlama1\RekursifIleFibonacciBulma\obj\Debug\RekursifIleFibonacciBulma.pdb
